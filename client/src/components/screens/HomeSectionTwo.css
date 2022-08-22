@@ -1,0 +1,41 @@
+.rtc-part{
+    
+    margin-top: 4%;
+    height: 17em;
+    width:88%;
+    margin-left: 6%;
+    border: 3px solid rgb(226,226,226);
+    border-radius: 7px;
+    box-shadow: 4px 3px 8px 1px #969696;
+    margin-bottom: 4%;
+    
+}
+.rtc-header{
+    display: flex; 
+      padding-top: 1%;
+}
+.rtc-header h2{
+     font-size:large;
+    font-weight: 800;
+    color:#1e56a0;
+ 
+    padding-left: 2%;
+}
+.rtc-header span{
+    color:#717273;
+}
+
+.rtc-body{
+    padding-top: 2%;
+     
+    display: flex;
+justify-content: flex-end;
+}
+@media screen and (min-width:700px){
+    .rtc-part{
+        position: relative;
+    }
+    .rtc-body{
+        position:absolute;
+    }
+}

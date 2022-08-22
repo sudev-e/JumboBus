@@ -1,0 +1,32 @@
+.home-image{
+    width:100%;
+    height:32rem;
+    background-image: url('https://st.redbus.in/Images/INDOFFER/Homepage-banner22.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.search-bar{
+  padding-top: 20%;
+  margin-left: 10%;
+  
+  
+
+}
+.search-sub{
+ 
+}
+.search-date{
+    background-color: white;
+    height: 56px;
+    width:320px;
+    border-radius: 5px;
+    margin-left: 3%;
+     padding-left: 14px;
+}
+.offer-parts{
+  
+}
+/* .search-subs{
+  width: 200px;
+  height: 56px;
+} */
